@@ -12,9 +12,9 @@ Durante el laboratorio se implementaron buenas prácticas como el uso de ramas p
 
 ##  Integrantes
 
-- Danilo Ramírez Pérez  
-- Esteban Páez Castrillón  
-- Luis David Correa Riofrío  
+- Danilo Ramírez Pérez  @Danilo062603
+- Esteban Páez Castrillón @Paez0504 
+- Luis David Correa Riofrío @correa2004  
 
 ---
 
