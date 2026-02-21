@@ -1,6 +1,6 @@
 # iue-prog-web2
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Repositorio correspondiente a la asignatura **Programación Web II (IF2003)**.
 
@@ -10,7 +10,7 @@ Durante el laboratorio se implementaron buenas prácticas como el uso de ramas p
 
 ---
 
-## 👥 Integrantes
+##  Integrantes
 
 - Danilo Ramírez Pérez  
 - Esteban Páez Castrillón  
@@ -18,7 +18,7 @@ Durante el laboratorio se implementaron buenas prácticas como el uso de ramas p
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - HTML5  
 - Git  
@@ -26,7 +26,7 @@ Durante el laboratorio se implementaron buenas prácticas como el uso de ramas p
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
 
@@ -40,7 +40,7 @@ cd iue-prog-web2
 
 ---
 
-## 🌿 Ramas creadas
+##  Ramas creadas
 
 - main  
 - feat-header  
@@ -48,7 +48,7 @@ cd iue-prog-web2
 
 ---
 
-## 🔄 Flujo de trabajo utilizado
+##  Flujo de trabajo utilizado
 
 - Inicialización del repositorio con `git init`.
 - Creación de ramas para nuevas funcionalidades.
@@ -60,7 +60,7 @@ cd iue-prog-web2
 
 ---
 
-## ⚠️ Evidencia de conflicto resuelto
+## Evidencia de conflicto resuelto
 
 Se presentó un conflicto al modificar la misma línea del archivo `index.html` en distintas ramas.
 
@@ -76,7 +76,7 @@ El conflicto fue resuelto manualmente eliminando las marcas y dejando el conteni
 
 ---
 
-## 🔁 Recuperación de versiones
+##  Recuperación de versiones
 
 Durante el laboratorio se aplicaron:
 
@@ -85,7 +85,7 @@ Durante el laboratorio se aplicaron:
 
 ---
 
-## 📜 Comandos fundamentales utilizados
+##  Comandos fundamentales utilizados
 
 - git init  
 - git status  
@@ -101,15 +101,15 @@ Durante el laboratorio se aplicaron:
 
 ---
 
-## ✅ Entregable Final
+##  Entregable Final
 
 El repositorio contiene:
 
-✔ Mínimo tres ramas creadas  
-✔ Ramas integradas correctamente en `main`  
-✔ Evidencia de resolución de conflicto  
-✔ Uso de revert o restore  
-✔ Historial con commits descriptivos  
-✔ README estructurado profesionalmente  
+Mínimo tres ramas creadas  
+ Ramas integradas correctamente en `main`  
+ Evidencia de resolución de conflicto  
+ Uso de revert o restore  
+ Historial con commits descriptivos  
+ README estructurado profesionalmente  
 
 docs: mejorar estructura del README
