@@ -2,12 +2,63 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programación Web 2</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: #1e3a8a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        main {
+            padding: 40px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .autor {
+            font-size: 14px;
+            margin-top: 10px;
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
 
     <header>
         <h1>Mi Página Web</h1>
+        <p class="autor">Desarrollado por: Danilo Ramírez Pérez</p>
+
         <nav>
             <ul>
                 <li><a href="#">Inicio</a></li>
@@ -21,12 +72,13 @@
         <section>
             <h2>Bienvenido</h2>
             <p>Práctica de header y footer - Programación Web 2</p>
+            <p class="autor">Colaborador: Esteban Páez Castrillón</p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2026 - Danilo</p>
-        <p>Programación Web 2</p>
+        <p>&copy; 2026 - Programación Web 2</p>
+        <p class="autor">Colaborador: Luis David Correa Riofrío</p>
     </footer>
 
 </body>
